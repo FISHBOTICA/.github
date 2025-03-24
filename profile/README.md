@@ -37,6 +37,6 @@ Experience a world where **innovation meets nature**.
 
 🔗 **Join us. Redefine fishkeeping.**
 <p>
-  <img src="fish_background.gif" alt="Seamless Sky" style="width: 100vw; height: 256px; object-fit: cover;">
+  <img src="fish_background.gif" alt="Seamless Sky" style="width: 100vw; height: 450px; object-fit: cover;">
 </p>
 
