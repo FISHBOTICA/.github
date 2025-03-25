@@ -1,4 +1,4 @@
-# <picture><img src="white_fishbotica_logo.png" alt="fishbotica" width="22" style="pointer-events: none;"></picture> FISHBOTICA
+# <picture><source media="(prefers-color-scheme: dark)" srcset="white_fishbotica_logo.png"><img src="black_fishbotica_logo.png" alt="fishbotica" width="22" style="pointer-events: none;"></picture> FISHBOTICA
 
 ## **Revolutionizing Aquariums with Technology & Intelligence**
 
