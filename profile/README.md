@@ -37,7 +37,7 @@ Experience a world where **innovation meets nature**.
 
 🔗 **[Join us. Redefine fishkeeping.](https://fishbotica.com/)**
 
-<p align="center">
+<p>
     <picture>
         <img src="fish_background.gif" alt="Seamless Sky" style="width: 100vw; height: 450px; object-fit: cover; pointer-events: none;">
     </picture>
