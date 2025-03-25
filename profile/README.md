@@ -1,4 +1,4 @@
-# <img src="white_fishbotica_logo.png" alt="fishbotica" width="22"> FISHBOTICA
+# <img src="white_fishbotica_logo.png" alt="fishbotica" width="22" style="pointer-events: none;"> FISHBOTICA
 
 ## **Revolutionizing Aquariums with Technology & Intelligence**
 
@@ -36,7 +36,7 @@ Designed with **precision and responsibility**, Fishbotica brings a **next-gener
 Experience a world where **innovation meets nature**.
 
 🔗 **[Join us. Redefine fishkeeping.](https://fishbotica.com/)**
-<p>
-  <img src="fish_background.gif" alt="Seamless Sky" style="width: 100vw; height: 450px; object-fit: cover;">
-</p>
+<div>
+  <img src="fish_background.gif" alt="Seamless Sky" style="width: 100vw; height: 450px; object-fit: cover; pointer-events: none;">
+</div>
 
